@@ -1,5 +1,7 @@
 # Student Registration System
 
+Click studentRegistrationsystem --> src --> Registration -->studentregistration.java
+
 A simple Java console application to manage student records using MySQL database.
 
 ## 📌 What This Project Does
